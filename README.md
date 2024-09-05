@@ -20,7 +20,7 @@ The system can be used to:
 
 ## Disclaimer
 
-The project is still a work in progress. It serves as my way of practicing what i have learnt from software engineering course.
+The project is still a work in progress. It serves as my way of practising what i have learnt from software engineering course.
 Iam yet to learn Java script programming and how to intergrate the user interface with the back-end using NodeJs. 
 
 Any contributions is highly welcomed.
