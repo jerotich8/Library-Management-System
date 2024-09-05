@@ -13,9 +13,10 @@ The system can be used to:
 
 ### Installation
 
-**Clone the repository:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/jerotich8/Library-Management-System.git
+
 
 ## Disclaimer
 
